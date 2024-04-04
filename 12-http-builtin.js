@@ -8,6 +8,7 @@ const server = http.createServer((req,res) => {
     }
 
     if(req.url === '/about'){
+        req.b
         res.end('this is about!!')
         return
     }
