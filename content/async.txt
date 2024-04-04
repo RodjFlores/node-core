@@ -1,0 +1,4 @@
+ASYNC --- {
+    "firstK": 1,
+    "second2": "stringVal"
+}
